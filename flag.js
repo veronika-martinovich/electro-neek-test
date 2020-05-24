@@ -22,5 +22,5 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('.blue-stripe').innerHTML = blueStripe;
   }
   
-  createFlag('O', 60, 80);
+  createFlag('O', 60, 21);
 })
